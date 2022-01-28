@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nandan</h1>
 
-<h3 align="center">A tech-enthusiast who loves to learn!</h3>
+<h2 align="center">A tech-enthusiast who loves to learn!</h2>
 
 <img align="right" alt="Coding" width="400" src="https://www.datarhine.com/images/coming.gif">
 
