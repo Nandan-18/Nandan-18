@@ -47,16 +47,49 @@
 </a>
 <a href = "https://gohugo.io/" target = "_blank" rel = "noreferrer"> 
 <img src = "https://d33wubrfki0l68.cloudfront.net/d8b90f575d5630e17b76f200f8b1a3311e3b03b7/eeca9/images/icon-pack/hugo.svg" alt="hugo" width="40" height="40"/> 
-</a>       
+</a>
+<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<img src = "https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> 
+</a>
+<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<img src = "https://img.icons8.com/color/344/pycharm.png" alt="pycharm" width="40" height="40"/> 
+</a>
+<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<img src = "https://img.icons8.com/color/344/intellij-idea.png" alt="intellij" width="40" height="40"/> 
+</a>
+<a href = "https://atom.io" target = "_blank" rel = "noreferrer"> 
+<img src = "https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" alt="atom" width="40" height="40"/> 
+</a>  
 <a href = "https://www.photoshop.com/en" target = "_blank" rel = "noreferrer"> 
 <img src = "https://d33wubrfki0l68.cloudfront.net/434767316b96f7729fddf13409a67dbb48c15777/5952d/images/icon-pack/photoshop.svg" alt="photoshop" width="40" height="40"/>
 </a>   
 <a href = "https://en.wikipedia.org/wiki/Final_Cut_Pro" target = "_blank" rel = "noreferrer">
 <img src = "https://d33wubrfki0l68.cloudfront.net/f5afcc33247b90f5ddb9fa346ec0351c92c1a732/6308b/images/icon-pack/finalcut.svg" alt="finalcutpro" width = "40" height = "40"/>
 </a>
+<a href = "https://en.wikipedia.org/wiki/IMovie" target = "_blank" rel = "noreferrer">
+<img src = "https://img.icons8.com/fluency/344/imovie.png" alt="imovie" width = "40" height = "40"/>
+</a>
+<a href = "https://www.canva.com" target = "_blank" rel = "noreferrer">
+<img src = "https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width = "40" height = "40"/>
+</a>  
 <a href = "https://www.audacityteam.org" target = "_blank" rel = "noreferrer">
 <img src = "https://d33wubrfki0l68.cloudfront.net/508fb2aa335ff58eb64362eb68946b0eb4e13ac9/04711/images/icon-pack/audacity.svg" alt="audacity" width = "40" height = "40"/>
 </a>
+<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<img src = "https://img.icons8.com/color/344/microsoft-word-2019--v2.png" alt="msword" width="40" height="40"/> 
+</a>
+<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<img src = "https://img.icons8.com/color/344/microsoft-excel-2019--v1.png" alt="msexcel" width="40" height="40"/> 
+</a>
+<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<img src = "https://img.icons8.com/color/344/microsoft-powerpoint-2019--v1.png" alt="mspowerpoint" width="40" height="40"/> 
+</a>
+<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<img src = "https://img.icons8.com/color/344/microsoft-onenote-2019.png" alt="msonenote" width="40" height="40"/> 
+</a>
+<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<img src = "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/> 
+</a>  
   
 </p>
 
