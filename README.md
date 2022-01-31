@@ -51,10 +51,10 @@
 <a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
 <img src = "https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> 
 </a>
-<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<a href = "https://www.jetbrains.com/pycharm" target = "_blank" rel = "noreferrer"> 
 <img src = "https://img.icons8.com/color/344/pycharm.png" alt="pycharm" width="40" height="40"/> 
 </a>
-<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<a href = "https://www.jetbrains.com/idea" target = "_blank" rel = "noreferrer"> 
 <img src = "https://img.icons8.com/color/344/intellij-idea.png" alt="intellij" width="40" height="40"/> 
 </a>
 <a href = "https://atom.io" target = "_blank" rel = "noreferrer"> 
@@ -75,19 +75,19 @@
 <a href = "https://www.audacityteam.org" target = "_blank" rel = "noreferrer">
 <img src = "https://d33wubrfki0l68.cloudfront.net/508fb2aa335ff58eb64362eb68946b0eb4e13ac9/04711/images/icon-pack/audacity.svg" alt="audacity" width = "40" height = "40"/>
 </a>
-<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<a href = "https://www.microsoft.com/en-in/microsoft-365/word" target = "_blank" rel = "noreferrer"> 
 <img src = "https://img.icons8.com/color/344/microsoft-word-2019--v2.png" alt="msword" width="40" height="40"/> 
 </a>
-<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<a href = "https://www.microsoft.com/en-in/microsoft-365/excel" target = "_blank" rel = "noreferrer"> 
 <img src = "https://img.icons8.com/color/344/microsoft-excel-2019--v1.png" alt="msexcel" width="40" height="40"/> 
 </a>
-<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<a href = "https://www.microsoft.com/en-in/microsoft-365/powerpoint" target = "_blank" rel = "noreferrer"> 
 <img src = "https://img.icons8.com/color/344/microsoft-powerpoint-2019--v1.png" alt="mspowerpoint" width="40" height="40"/> 
 </a>
-<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<a href = "https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app" target = "_blank" rel = "noreferrer"> 
 <img src = "https://img.icons8.com/color/344/microsoft-onenote-2019.png" alt="msonenote" width="40" height="40"/> 
 </a>
-<a href = "https://code.visualstudio.com" target = "_blank" rel = "noreferrer"> 
+<a href = "https://www.notion.so" target = "_blank" rel = "noreferrer"> 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/> 
 </a>  
   
