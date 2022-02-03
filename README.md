@@ -224,8 +224,26 @@
 
 ##
 
-[![Nandan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nandan-18&&theme=xcode)](https://github.com/Nandan-18)
+<a href = "https://github.com/Nandan-18"
+   target = "_blank">
+   <img src = "https://activity-graph.herokuapp.com/graph?username=Nandan-18&&theme=xcode"
+        height = "420"
+        width = "1200" />
+</a>
+   
+<a href = "https://github.com/Nandan-18"
+   target = "_blank">
+   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Nandan-18&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"
+        height = "185"
+        width = "485"
+        align = "left" />
+</a> 
 
-[![Nandan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nandan-18&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Nandan-18)
+<a href = "https://github.com/Nandan-18"
+   target = "_blank">
+   <img src = "https://github-readme-stats.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical"
+        height = "185"
+        width = "485" 
+        align = "right" />
+</a>
 
-[![Nandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical)](https://github.com/Nandan-18)
