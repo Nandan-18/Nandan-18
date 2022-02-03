@@ -234,16 +234,14 @@
 <a href = "https://github.com/Nandan-18"
    target = "_blank">
    <img src = "https://github-readme-streak-stats.herokuapp.com?user=Nandan-18&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"
-        height = "155"
-        width = "445"
-        align = "left" />
+        height = "420"
+        width = "1200" />
 </a> 
 
 <a href = "https://github.com/Nandan-18"
    target = "_blank">
    <img src = "https://github-readme-stats.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical"
-        height = "155"
-        width = "445" 
-        align = "right" />
+        height = "420"
+        width = "1200" />
 </a>
 
