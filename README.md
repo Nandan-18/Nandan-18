@@ -122,6 +122,20 @@
        width="40" 
        height="40"/>
 </a>
+<a href = "https://www.pygame.org" 
+   target = "_blank"> 
+  <img src = "https://dhanush.gallerycdn.vsassets.io/extensions/dhanush/pygame-snips/0.0.4/1632475634170/Microsoft.VisualStudio.Services.Icons.Default" 
+       alt="pygame" 
+       width="50" 
+       height="50"/>
+</a>
+<a href = "https://docs.python.org/3/library/tkinter.html" 
+   target = "_blank"> 
+  <img src = "https://i.ibb.co/hMTyD9g/pngwing-com.png" 
+       alt="tkinter" 
+       width="40" 
+       height="40"/>
+</a>
 <a href = "https://gohugo.io/" 
    target = "_blank"> 
   <img src = "https://d33wubrfki0l68.cloudfront.net/d8b90f575d5630e17b76f200f8b1a3311e3b03b7/eeca9/images/icon-pack/hugo.svg"
