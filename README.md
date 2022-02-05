@@ -113,7 +113,14 @@
   <img src = "https://img.icons8.com/nolan/344/markdown.png" 
        alt="markdown" 
        width="40" 
-       height="40"/> 
+       height="40"/>
+</a>
+<a href = "https://www.selenium.dev" 
+   target = "_blank"> 
+  <img src = "https://img.icons8.com/officexs/344/selenium-test-automation.png" 
+       alt="selenium" 
+       width="40" 
+       height="40"/>
 </a>
 <a href = "https://gohugo.io/" 
    target = "_blank"> 
