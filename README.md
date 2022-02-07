@@ -73,41 +73,48 @@
        width = "40" 
        height = "40"/> 
 </a> 
-<a href = "https://www.mysql.com/" 
+<a href = "https://www.mysql.com" 
    target = "_blank"> 
   <img src = "https://d33wubrfki0l68.cloudfront.net/dcb20c9a5cdd57de99030108ec988a52b190b168/a9e1e/images/icon-pack/mysql.svg"
        alt = "mysql"
        width = "40"
        height = "40"/>
 </a> 
-<a href = "https://www.w3.org/html/"
+<a href = "https://www.w3.org/html"
    target = "_blank"> 
   <img src = "https://cdn-icons-png.flaticon.com/512/888/888859.png"
        alt = "html5"
        width = "40"
        height = "40"/> 
 </a> 
-<a href = "https://www.w3schools.com/css/"
+<a href = "https://www.w3schools.com/css"
    target = "_blank"> 
   <img src = "https://cdn-icons-png.flaticon.com/512/888/888847.png" 
        alt="css3" 
        width="40" 
        height="40"/> 
 </a> 
-<a href = "https://git-scm.com/" 
+<a href = "https://git-scm.com" 
    target = "_blank"> 
   <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
        alt="git" 
        width="40" 
        height="40"/> 
 </a>
-<a href = "https://github.com/" 
+<a href = "https://github.com" 
    target = "_blank"> 
   <img src = "https://cdn-icons.flaticon.com/png/512/536/premium/536452.png?token=exp=1643372451~hmac=7b61f1036a9d6270d2727d018d0cf81b" 
        alt="GitHub" 
        width="40" 
        height="40"/>
-</a> 
+</a>
+<a href = "https://en.wikipedia.org/wiki/Terminal_(macOS)" 
+   target = "_blank"> 
+  <img src = "https://www.macworld.co.uk/cmsdata/features/3608274/Terminalicon2_thumb900_1-1.png" 
+       alt="terminal" 
+       width="40" 
+       height="40"/>
+</a>
 <a href = "https://en.wikipedia.org/wiki/Markdown" 
    target = "_blank"> 
   <img src = "https://img.icons8.com/nolan/344/markdown.png" 
@@ -136,7 +143,7 @@
        width="40" 
        height="40"/>
 </a>
-<a href = "https://gohugo.io/" 
+<a href = "https://gohugo.io" 
    target = "_blank"> 
   <img src = "https://d33wubrfki0l68.cloudfront.net/d8b90f575d5630e17b76f200f8b1a3311e3b03b7/eeca9/images/icon-pack/hugo.svg"
        alt="hugo" 
