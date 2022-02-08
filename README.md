@@ -14,7 +14,7 @@
 <a href="mailto:nandanramesh123@gmail.com"
    target="_blank">
   <img align="center"
-     src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1643647566~hmac=cbb8fb1b2f89c4af484e82363bc1b119"
+     src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1644324911~hmac=9000ecd6d95d108c936ff0928c6e6eee"
      alt="nandanramesh123@gmail.com"
      height="60"
      width="60" />
