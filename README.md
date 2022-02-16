@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.datarhine.com/images/coming.gif">
 
-## 🎯 Connect with Me ! 
+## 🎯 Connect with Me !
 
 <p align="left">
 <a href="mailto:nandanramesh123@gmail.com"
@@ -51,7 +51,6 @@
 </a>  
   
 </p>
-
 
 ## 🚀 Languages and Tools:
 
@@ -252,7 +251,7 @@
 
 <a href = "https://github.com/Nandan-18"
    target = "_blank">
-   <img src = "https://activity-graph.herokuapp.com/graph?username=Nandan-18&&theme=xcode"
+<img src = "https://activity-graph.herokuapp.com/graph?username=Nandan-18&&theme=xcode"
         height = "420"
         width = "1200" />
 </a>
