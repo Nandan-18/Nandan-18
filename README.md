@@ -100,7 +100,7 @@
 </a>
 <a href = "https://github.com" 
    target = "_blank"> 
-  <img src = "https://cdn-icons.flaticon.com/png/512/536/premium/536452.png?token=exp=1643372451~hmac=7b61f1036a9d6270d2727d018d0cf81b" 
+  <img src = "https://cdn-icons.flaticon.com/png/512/536/premium/536452.png?token=exp=1645812395~hmac=3158ffb454ca442a5c742915386a83ac" 
        alt="GitHub" 
        width="40" 
        height="40"/>
