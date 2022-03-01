@@ -58,7 +58,7 @@
   
 <a href = "https://www.python.org"
    target = "_blank"> 
-  <img src = "https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1643995183~hmac=a17d1f42bafe32237502a5b9a99abcf6"
+  <img src = "https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1646115097~hmac=83cb5701f4751fd0487982c901103cc4"
        alt = "python"
        width = "40" 
        height = "40"/> 
