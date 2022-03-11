@@ -12,7 +12,7 @@
 <a href="mailto:nandanramesh123@gmail.com"
    target="_blank">
   <img align="center"
-     src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1644324911~hmac=9000ecd6d95d108c936ff0928c6e6eee"
+     src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1646978666~hmac=b3285b846a8c59410ae3092f976cfd32"
      alt="nandanramesh123@gmail.com"
      height="60"
      width="60" />
@@ -100,7 +100,7 @@
 </a>
 <a href = "https://github.com" 
    target = "_blank"> 
-  <img src = "https://cdn-icons.flaticon.com/png/512/536/premium/536452.png?token=exp=1645812395~hmac=3158ffb454ca442a5c742915386a83ac" 
+  <img src = "https://cdn-icons.flaticon.com/png/512/536/premium/536452.png?token=exp=1646978719~hmac=5bd6379e900595eafe84364ec111be0c" 
        alt="GitHub" 
        width="40" 
        height="40"/>
