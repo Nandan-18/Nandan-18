@@ -12,7 +12,7 @@
 <a href="mailto:nandanramesh123@gmail.com"
    target="_blank">
   <img align="center"
-     src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1646978666~hmac=b3285b846a8c59410ae3092f976cfd32"
+     src="https://i.ibb.co/zxtNX4k/2875394.png"
      alt="nandanramesh123@gmail.com"
      height="60"
      width="60" />
@@ -58,7 +58,7 @@
   
 <a href = "https://www.python.org"
    target = "_blank"> 
-  <img src = "https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1646115097~hmac=83cb5701f4751fd0487982c901103cc4"
+  <img src = "https://i.ibb.co/vsnmYkh/python.png"
        alt = "python"
        width = "40" 
        height = "40"/> 
@@ -100,7 +100,7 @@
 </a>
 <a href = "https://github.com" 
    target = "_blank"> 
-  <img src = "https://cdn-icons.flaticon.com/png/512/536/premium/536452.png?token=exp=1646978719~hmac=5bd6379e900595eafe84364ec111be0c" 
+  <img src = "https://i.ibb.co/jJbDW6J/github.png" 
        alt="GitHub" 
        width="40" 
        height="40"/>
