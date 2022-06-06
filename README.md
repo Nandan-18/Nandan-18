@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/tHZSVC1/3000.gif)](nandan18.netlify.app)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nandan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Nandan</h1>
 
 <h2 align="center">A tech-enthusiast who loves to learn!</h2>
 
@@ -107,7 +107,7 @@
 </a>
 <a href = "https://en.wikipedia.org/wiki/Terminal_(macOS)" 
    target = "_blank"> 
-  <img src = "https://www.macworld.co.uk/cmsdata/features/3608274/Terminalicon2_thumb900_1-1.png" 
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" 
        alt="terminal" 
        width="40" 
        height="40"/>
