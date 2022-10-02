@@ -4,7 +4,7 @@
 
 <h2 align="center">A tech-enthusiast who loves to learn!</h2>
 
-<img align="right" alt="Coding" width="400" src="https://www.datarhine.com/images/coming.gif">
+<img align="right" alt="Coding" width="500" height="400" src="https://s4.gifyu.com/images/coding.gif">
 
 ## 🎯 Connect with Me !
 
