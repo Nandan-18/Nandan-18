@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/tHZSVC1/3000.gif)](nandan18.netlify.app)
+[![MasterHead](https://i.ibb.co/tHZSVC1/3000.gif)](https://github.com/Nandan-18)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Nandan</h1>
 
