@@ -4,7 +4,7 @@
 
 <h2 align="center">A tech-enthusiast who loves to learn!</h2>
 
-<img align="right" alt="Coding" width="500" height="400" src="https://s4.gifyu.com/images/coding.gif">
+<img align="right" alt="Coding" width="500" height="365" src="https://s4.gifyu.com/images/coding.gif">
 
 ## 🎯 Connect with Me !
 
@@ -253,7 +253,7 @@
    target = "_blank">
 <img src = "https://activity-graph.herokuapp.com/graph?username=Nandan-18&&theme=xcode"
         height = "420"
-        width = "1200" />
+        width = "1000" />
 </a>
 
 <div align="center">
