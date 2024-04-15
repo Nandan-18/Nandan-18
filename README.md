@@ -80,18 +80,18 @@
 
 <div align="center">
     <p>
-        <a href='https://github.com/CMPUT301W24T30/ScanPal' style="margin-right: 20px">
+        <a href='https://github.com/CMPUT301W24T30/ScanPal' style="margin-right: 10px">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMPUT301W24T30&repo=ScanPal&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
         </a>
-        <a href='https://github.com/ByteMyDust/TicCatToe' style="margin-right: 20px" >
+        <a href='https://github.com/ByteMyDust/TicCatToe' style="margin-right: 10px" >
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ByteMyDust&repo=TicCatToe&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="max-width:100%; height: auto;">
         </a>
     </p>
     <p>
-        <a href='https://github.com/Nandan-18/AI-Eye' style="margin-right: 20px">
+        <a href='https://github.com/Nandan-18/AI-Eye' style="margin-right: 10px">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nandan-18&repo=AI-Eye&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="max-width:100%; height: auto;">
         </a>
-        <a href='https://github.com/Nandan-18/BearPath' style="margin-right: 20px">
+        <a href='https://github.com/Nandan-18/BearPath' style="margin-right: 10px">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nandan-18&repo=BearPath&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
         </a>
     </p>
