@@ -102,10 +102,10 @@
 <div align="center">
     <p>
         <a href='https://git.io/streak-stats' style="margin-right: 20px">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nandan-18&theme=tokyonight-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=465&border=34EBDD&ring=EB0000&stroke=00EBC9" style="max-width:300px; height: 100%;"/>
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nandan-18&theme=tokyonight-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=465&border=34EBDD&ring=EB0000&stroke=00EBC9" style="max-width:40%; max-height: 100%;"/>
         </a>
         <a href='https://github.com/Nandan-18' style="margin-right: 20px">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical&include_all_commits=true&border_radius=10" style="max-width:300px; height: 100%;">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical&include_all_commits=true&border_radius=10" style="max-width:40%; max-height: 100%;">
         </a>
     </p>
 </div>
