@@ -5,20 +5,20 @@
 ## 🎯 Connect with Me
 
 <p align="left">
-    <a href="mailto:nandanramesh123@gmail.com">
-        <img align="center" src="https://i.ibb.co/zxtNX4k/2875394.png" alt="nandanramesh123@gmail.com" height="60" width="60" />
+    <a href="mailto:nandanramesh123@gmail.com" target="_blank">
+        <img align="center" src="assets/logos/gmail.png" alt="nandanramesh123@gmail.com" height="60" width="60" />
     </a>
     <a href="https://linkedin.com/in/nandanramesh" target="_blank">
-        <img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-linkedin-social-media-justicon-lineal-color-justicon.png" alt="nandanramesh" height="50" width="50" />
+        <img align="center" src="assets/logos/linkedin.png" alt="nandanramesh" height="50" width="50" />
     </a>
     <a href="https://twitter.com/NandanRamesh2" target="_blank">
-        <img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-twitter-social-media-justicon-lineal-color-justicon.png" alt="NandanRamesh2" height="50" width="50" />
+        <img align="center" src="assets/logos/twitter.png" alt="NandanRamesh2" height="50" width="50" />
     </a>
     <a href="https://instagram.com/nan_bron" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="le_nan_18" height="50" width="50" />
+        <img align="center" src="assets/logos/instagram.png" alt="le_nan_18" height="50" width="50" />
     </a>
     <a href="https://www.facebook.com/nandan.ramesh.1069" target="_blank">
-        <img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-facebook-social-media-justicon-lineal-color-justicon.png" alt="nandan.ramesh.1069" height="50" width="50" />
+        <img align="center" src="assets/logos/facebook.png" alt="nandan.ramesh.1069" height="50" width="50" />
     </a>
 </p>
 
@@ -100,10 +100,10 @@
 ## ⚡️ Stats
 
 <div align="center">
-    <a href='https://git.io/streak-stats' style="margin-right: 20px">
+    <a href='https://git.io/streak-stats' style="margin-right: 10px">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nandan-18&theme=tokyonight-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=465&border=34EBDD&ring=EB0000&stroke=00EBC9" height="150"/>
     </a>
-    <a href='https://github.com/Nandan-18' style="margin-right: 20px">
+    <a href='https://github.com/Nandan-18' style="margin-right: 10px">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical&include_all_commits=true&border_radius=10" height="150">
     </a>
 </div>
