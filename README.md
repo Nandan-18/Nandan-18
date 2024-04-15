@@ -1,263 +1,113 @@
-[![MasterHead](https://i.ibb.co/tHZSVC1/3000.gif)](https://github.com/Nandan-18)
+[![banner](assets/banner.gif)](https://github.com/Nandan-18)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Nandan</h1>
+<h1 align="center">Hi <img src="assets/wave.gif" width="30px" height="30px">, I'm<br><img src="assets/name.gif" width="150px" height="30px"></h1>
 
-<h2 align="center">A tech-enthusiast who loves to learn!</h2>
-
-<img align="right" alt="Coding" width="500" height="365" src="https://s4.gifyu.com/images/coding.gif">
-
-## 🎯 Connect with Me !
+## 🎯 Connect with Me
 
 <p align="left">
-<a href="mailto:nandanramesh123@gmail.com"
-   target="_blank">
-  <img align="center"
-     src="https://i.ibb.co/zxtNX4k/2875394.png"
-     alt="nandanramesh123@gmail.com"
-     height="60"
-     width="60" />
-</a>  
-<a href="https://linkedin.com/in/nandanramesh"
-   target="_blank">
-  <img align="center" 
-       src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-linkedin-social-media-justicon-lineal-color-justicon.png" 
-       alt="nandanramesh" 
-       height="50" 
-       width="50" />
-</a>  
-<a href="https://twitter.com/NandanRamesh2" 
-   target="_blank">
-  <img align="center" 
-       src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-twitter-social-media-justicon-lineal-color-justicon.png" 
-       alt="NandanRamesh2" 
-       height="50" 
-       width="50" />
-</a>  
-<a href="https://instagram.com/nan_bron"
-   target="_blank">
-  <img align="center" 
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" 
-       alt="le_nan_18" 
-       height="50" 
-       width="50" />
-</a>  
-<a href="https://www.facebook.com/nandan.ramesh.1069"
-   target="_blank">
-  <img align="center"
-       src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-facebook-social-media-justicon-lineal-color-justicon.png"
-       alt="nandan.ramesh.1069"
-       height="50"
-       width="50" />
-</a>  
-  
+    <a href="mailto:nandanramesh123@gmail.com">
+        <img align="center" src="https://i.ibb.co/zxtNX4k/2875394.png" alt="nandanramesh123@gmail.com" height="60" width="60" />
+    </a>
+    <a href="https://linkedin.com/in/nandanramesh" target="_blank">
+        <img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-linkedin-social-media-justicon-lineal-color-justicon.png" alt="nandanramesh" height="50" width="50" />
+    </a>
+    <a href="https://twitter.com/NandanRamesh2" target="_blank">
+        <img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-twitter-social-media-justicon-lineal-color-justicon.png" alt="NandanRamesh2" height="50" width="50" />
+    </a>
+    <a href="https://instagram.com/nan_bron" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="le_nan_18" height="50" width="50" />
+    </a>
+    <a href="https://www.facebook.com/nandan.ramesh.1069" target="_blank">
+        <img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-facebook-social-media-justicon-lineal-color-justicon.png" alt="nandan.ramesh.1069" height="50" width="50" />
+    </a>
 </p>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
-<p align = "left"> 
-  
-<a href = "https://www.python.org"
-   target = "_blank"> 
-  <img src = "https://i.ibb.co/vsnmYkh/python.png"
-       alt = "python"
-       width = "40" 
-       height = "40"/> 
-</a> 
-<a href = "https://www.java.com"
-   target = "_blank"> 
-  <img src = "https://cdn-icons-png.flaticon.com/512/226/226777.png"
-       alt = "java" 
-       width = "40" 
-       height = "40"/> 
-</a> 
-<a href = "https://www.mysql.com" 
-   target = "_blank"> 
-  <img src = "https://d33wubrfki0l68.cloudfront.net/dcb20c9a5cdd57de99030108ec988a52b190b168/a9e1e/images/icon-pack/mysql.svg"
-       alt = "mysql"
-       width = "40"
-       height = "40"/>
-</a> 
-<a href = "https://www.w3.org/html"
-   target = "_blank"> 
-  <img src = "https://cdn-icons-png.flaticon.com/512/888/888859.png"
-       alt = "html5"
-       width = "40"
-       height = "40"/> 
-</a> 
-<a href = "https://www.w3schools.com/css"
-   target = "_blank"> 
-  <img src = "https://cdn-icons-png.flaticon.com/512/888/888847.png" 
-       alt="css3" 
-       width="40" 
-       height="40"/> 
-</a> 
-<a href = "https://git-scm.com" 
-   target = "_blank"> 
-  <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-       alt="git" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://github.com" 
-   target = "_blank"> 
-  <img src = "https://i.ibb.co/jJbDW6J/github.png" 
-       alt="GitHub" 
-       width="40" 
-       height="40"/>
-</a>
-<a href = "https://en.wikipedia.org/wiki/Terminal_(macOS)" 
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" 
-       alt="terminal" 
-       width="40" 
-       height="40"/>
-</a>
-<a href = "https://en.wikipedia.org/wiki/Markdown" 
-   target = "_blank"> 
-  <img src = "https://img.icons8.com/nolan/344/markdown.png" 
-       alt="markdown" 
-       width="40" 
-       height="40"/>
-</a>
-<a href = "https://www.selenium.dev" 
-   target = "_blank"> 
-  <img src = "https://img.icons8.com/officexs/344/selenium-test-automation.png" 
-       alt="selenium" 
-       width="40" 
-       height="40"/>
-</a>
-<a href = "https://www.pygame.org" 
-   target = "_blank"> 
-  <img src = "https://dhanush.gallerycdn.vsassets.io/extensions/dhanush/pygame-snips/0.0.4/1632475634170/Microsoft.VisualStudio.Services.Icons.Default" 
-       alt="pygame" 
-       width="50" 
-       height="50"/>
-</a>
-<a href = "https://docs.python.org/3/library/tkinter.html" 
-   target = "_blank"> 
-  <img src = "https://i.ibb.co/hMTyD9g/pngwing-com.png" 
-       alt="tkinter" 
-       width="40" 
-       height="40"/>
-</a>
-<a href = "https://gohugo.io" 
-   target = "_blank"> 
-  <img src = "https://d33wubrfki0l68.cloudfront.net/d8b90f575d5630e17b76f200f8b1a3311e3b03b7/eeca9/images/icon-pack/hugo.svg"
-       alt="hugo" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://code.visualstudio.com" 
-   target = "_blank"> 
-  <img src = "https://img.icons8.com/color/344/visual-studio-code-2019.png" 
-       alt="vscode" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://www.jetbrains.com/pycharm" 
-   target = "_blank"> 
-  <img src = "https://img.icons8.com/color/344/pycharm.png" 
-       alt="pycharm" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://www.jetbrains.com/idea" 
-   target = "_blank"> 
-  <img src = "https://img.icons8.com/color/344/intellij-idea.png" 
-       alt="intellij" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://atom.io" 
-   target = "_blank"> 
-  <img src = "https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" 
-       alt="atom" 
-       width="40" 
-       height="40"/> 
-</a>
-  <a href = "https://www.photoshop.com/en" 
-   target = "_blank"> 
-  <img src = "https://d33wubrfki0l68.cloudfront.net/434767316b96f7729fddf13409a67dbb48c15777/5952d/images/icon-pack/photoshop.svg" 
-       alt="photoshop" 
-       width="40" 
-       height="40"/>
-</a>
-  <a href = "https://en.wikipedia.org/wiki/Final_Cut_Pro" 
-   target = "_blank">
-  <img src = "https://d33wubrfki0l68.cloudfront.net/f5afcc33247b90f5ddb9fa346ec0351c92c1a732/6308b/images/icon-pack/finalcut.svg" 
-     alt="finalcutpro"
-     width = "40" 
-     height = "40"/>
-</a>
-<a href = "https://en.wikipedia.org/wiki/IMovie" 
-   target = "_blank">
-<img src = "https://img.icons8.com/fluency/344/imovie.png" 
-     alt="imovie" 
-     width = "40" 
-     height = "40"/>
-</a>
-<a href = "https://www.canva.com" 
-   target = "_blank">
-  <img src = "https://cdn.worldvectorlogo.com/logos/canva-1.svg" 
-       alt="canva" 
-       width = "40" 
-       height = "40"/>
-</a>
-  <a href = "https://www.audacityteam.org" 
-   target = "_blank">
-  <img src = "https://d33wubrfki0l68.cloudfront.net/508fb2aa335ff58eb64362eb68946b0eb4e13ac9/04711/images/icon-pack/audacity.svg" 
-       alt="audacity" 
-       width = "40" 
-       height = "40"/>
-</a>
-<a href = "https://www.microsoft.com/en-in/microsoft-365/word" 
-   target = "_blank"> 
-  <img src = "https://img.icons8.com/color/344/microsoft-word-2019--v2.png" 
-       alt="msword" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://www.microsoft.com/en-in/microsoft-365/excel" 
-   target = "_blank"> 
-  <img src = "https://img.icons8.com/color/344/microsoft-excel-2019--v1.png" 
-       alt="msexcel" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://www.microsoft.com/en-in/microsoft-365/powerpoint" 
-   target = "_blank">
-  <img src = "https://img.icons8.com/color/344/microsoft-powerpoint-2019--v1.png" 
-       alt="mspowerpoint"
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app" 
-   target = "_blank">
-  <img src = "https://img.icons8.com/color/344/microsoft-onenote-2019.png" 
-       alt="msonenote" 
-       width="40" 
-       height="40"/> 
-</a>
-<a href = "https://www.notion.so" 
-   target = "_blank"> 
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" 
-       alt="notion" 
-       width="40" 
-       height="40"/> 
-</a>
+<p>
+    <!-- Core Programming Languages -->
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+    <!-- Frameworks/Libraries -->
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+    <img alt="Pygame" src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib" />
+    <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <!-- Databases -->
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />
+    <!-- Development Tools -->
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+    <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+    <img alt="iTerm" src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img alt="Terminal" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" twice/>
+    <img alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" />
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
-##
-<!-- 
-<a href = "https://github.com/Nandan-18"
-   target = "_blank">
-<img src = "https://activity-graph.herokuapp.com/graph?username=Nandan-18&&theme=xcode"
-        height = "420"
-        width = "1000" />
-</a> -->
+## 🔥 Projects
 
 <div align="center">
-    <p><a href= "https://github.com/Nandan-18" style="margin-right: 5px"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nandan-18&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" height = "155" width = "415"></a> <a href='https://github.com/Nandan-18'><img src="https://github-readme-stats.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical" height = "155" width = "415"></a></p>
+    <p>
+        <a href='https://github.com/CMPUT301W24T30/ScanPal' style="margin-right: 10px">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMPUT301W24T30&repo=ScanPal&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
+        </a>
+        <a href='https://github.com/ByteMyDust/TicCatToe'>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ByteMyDust&repo=TicCatToe&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="max-width:100%; height: auto;">
+        </a>
+    </p>
+    <p>
+        <a href='https://github.com/Nandan-18/AI-Eye' style="margin-right: 10px">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nandan-18&repo=AI-Eye&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="max-width:100%; height: auto;">
+        </a>
+        <a href='https://github.com/Nandan-18/BearPath'>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nandan-18&repo=BearPath&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
+        </a>
+    </p>
 </div>
 
-<p align="center"> <img src="https://profile-counter.glitch.me/Nandan-18/count.svg" alt="Nandan-18" /> </p>
+## ⚡️ Stats
+
+<div align="center">
+    <p>
+        <a href='https://git.io/streak-stats' style="margin-right: 10px">
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nandan-18&theme=tokyonight-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&border=34EBDD&ring=EB0000&stroke=00EBC9" style="max-width:100%; height: auto;"/>
+        </a>
+        <a href='https://github.com/Nandan-18'>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical&include_all_commits=true&border_radius=10" style="max-width:100%; height: auto;">
+        </a>
+    </p>
+</div>
+
+<p align="center"> <img src="https://profile-counter.glitch.me/Nandan-18/count.svg" /></p>
