@@ -100,14 +100,12 @@
 ## ⚡️ Stats
 
 <div align="center">
-    <p>
-        <a href='https://git.io/streak-stats' style="margin-right: 20px">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nandan-18&theme=tokyonight-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=465&border=34EBDD&ring=EB0000&stroke=00EBC9" style="max-width:20%; height: 20%;"/>
-        </a>
-        <a href='https://github.com/Nandan-18' style="margin-right: 20px">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical&include_all_commits=true&border_radius=10" style="max-width:20%; height: 20%;">
-        </a>
-    </p>
+    <a href='https://git.io/streak-stats' style="margin-right: 20px">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nandan-18&theme=tokyonight-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=465&border=34EBDD&ring=EB0000&stroke=00EBC9" height="150"/>
+    </a>
+    <a href='https://github.com/Nandan-18' style="margin-right: 20px">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical&include_all_commits=true&border_radius=10" height="150">
+    </a>
 </div>
 <br>
 <p align="center"> <img src="https://profile-counter.glitch.me/Nandan-18/count.svg" /></p>
