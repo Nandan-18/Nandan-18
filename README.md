@@ -78,33 +78,36 @@
 
 ## 🔥 Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <a href='https://github.com/CMPUT301W24T30/ScanPal' style="flex: 1 1 250px; max-width: 100%; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CMPUT301W24T30&repo=ScanPal&theme=holi&border_radius=10" style="width: 100%; height: auto; object-fit: scale-down;">
-    </a>
-    <a href='https://github.com/ByteMyDust/TicCatToe' style="flex: 1 1 250px; max-width: 100%; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteMyDust&repo=TicCatToe&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="width: 100%; height: auto; object-fit: scale-down;">
-    </a>
-</div>
-<br>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <a href='https://github.com/Nandan-18/AI-Eye' style="flex: 1 1 250px; max-width: 100%; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandan-18&repo=AI-Eye&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="width: 100%; height: auto; object-fit: scale-down;">
-    </a>
-    <a href='https://github.com/Nandan-18/BearPath' style="flex: 1 1 250px; max-width: 100%; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandan-18&repo=BearPath&theme=holi&border_radius=10" style="width: 100%; height: auto; object-fit: scale-down;">
-    </a>
+<div align="center">
+    <p>
+        <a href='https://github.com/CMPUT301W24T30/ScanPal' style="margin-right: 20px">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMPUT301W24T30&repo=ScanPal&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
+        </a>
+        <a href='https://github.com/ByteMyDust/TicCatToe' style="margin-right: 20px" >
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ByteMyDust&repo=TicCatToe&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="max-width:100%; height: auto;">
+        </a>
+    </p>
+    <p>
+        <a href='https://github.com/Nandan-18/AI-Eye' style="margin-right: 20px">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nandan-18&repo=AI-Eye&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="max-width:100%; height: auto;">
+        </a>
+        <a href='https://github.com/Nandan-18/BearPath' style="margin-right: 20px">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nandan-18&repo=BearPath&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
+        </a>
+    </p>
 </div>
 
 ## ⚡️ Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center;">
-    <a href='https://git.io/streak-stats' style="flex: 1 1 250px; max-width: 100%; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Nandan-18&theme=tokyonight-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&border=34EBDD&ring=EB0000&stroke=00EBC9" style="width: 100%; height: auto; object-fit: scale-down;">
-    </a>
-    <a href='https://github.com/Nandan-18' style="flex: 1 1 250px; max-width: 100%; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical&include_all_commits=true&border_radius=10" style="width: 100%; height: auto; object-fit: scale-down;">
-    </a>
+<div align="center">
+    <p>
+        <a href='https://git.io/streak-stats' style="margin-right: 20px">
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nandan-18&theme=tokyonight-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=465&border=34EBDD&ring=EB0000&stroke=00EBC9" style="max-width:400px; height: 100%;"/>
+        </a>
+        <a href='https://github.com/Nandan-18' style="margin-right: 20px">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical&include_all_commits=true&border_radius=10" style="max-width:400px; height: 100%;">
+        </a>
+    </p>
 </div>
 <br>
 <p align="center"> <img src="https://profile-counter.glitch.me/Nandan-18/count.svg" /></p>
