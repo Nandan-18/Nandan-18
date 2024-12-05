@@ -80,6 +80,14 @@
 
 <div align="center">
     <p>
+        <a href='https://github.com/onPhone/onPhone' style="margin-right: 10px">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onPhone&repo=onPhone&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="max-width:100%; height: auto;">
+        </a>
+        <a href='https://github.com/Neural-Natties/Dr.DrEEG' style="margin-right: 10px" >
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Neural-Natties&repo=Dr.DrEEG&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
+        </a>
+    </p>
+    <p>
         <a href='https://github.com/CMPUT301W24T30/ScanPal' style="margin-right: 10px">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMPUT301W24T30&repo=ScanPal&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
         </a>
