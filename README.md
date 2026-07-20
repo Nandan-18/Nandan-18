@@ -81,26 +81,26 @@
 <div align="center">
     <p>
         <a href='https://github.com/onPhone/onPhone' style="margin-right: 10px">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onPhone&repo=onPhone&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="max-width:100%; height: auto;">
+            <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=onPhone&repo=onPhone&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="max-width:100%; height: auto;">
         </a>
         <a href='https://github.com/Neural-Natties/Dr.DrEEG' style="margin-right: 10px" >
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Neural-Natties&repo=Dr.DrEEG&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
+            <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Neural-Natties&repo=Dr.DrEEG&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
         </a>
     </p>
     <p>
         <a href='https://github.com/CMPUT301W24T30/ScanPal' style="margin-right: 10px">
-            <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CMPUT301W24T30&repo=ScanPal&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
+            <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=CMPUT301W24T30&repo=ScanPal&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
         </a>
         <a href='https://github.com/ByteMyDust/TicCatToe' style="margin-right: 10px" >
-            <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ByteMyDust&repo=TicCatToe&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="max-width:100%; height: auto;">
+            <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=ByteMyDust&repo=TicCatToe&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="max-width:100%; height: auto;">
         </a>
     </p>
     <p>
         <a href='https://github.com/Nandan-18/AI-Eye' style="margin-right: 10px">
-            <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Nandan-18&repo=AI-Eye&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="max-width:100%; height: auto;">
+            <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Nandan-18&repo=AI-Eye&theme=codeSTACKr&border_color=FFFFFF&border_radius=10" style="max-width:100%; height: auto;">
         </a>
         <a href='https://github.com/Nandan-18/BearPath' style="margin-right: 10px">
-            <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Nandan-18&repo=BearPath&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
+            <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Nandan-18&repo=BearPath&theme=holi&border_radius=10" style="max-width:100%; height: auto;">
         </a>
     </p>
 </div>
@@ -112,7 +112,7 @@
         <img align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Nandan-18&theme=tokyonight-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=465&border=34EBDD&ring=EB0000&stroke=00EBC9" height="150"/>
     </a>
     <a href='https://github.com/Nandan-18' style="margin-right: 10px">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical&include_all_commits=true&border_radius=10" height="150">
+        <img align="center" src="https://github-stats-extended.vercel.app/api?username=Nandan-18&show_icons=true&theme=radical&include_all_commits=true&border_radius=10" height="150">
     </a>
 </div>
 <br>
